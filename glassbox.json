@@ -1,0 +1,105 @@
+{
+  "slug": "umbrellaclear",
+  "box": 142,
+  "date": "2026-10-09",
+  "title": "UmbrellaClear",
+  "question": "How does an umbrella work?",
+  "hook": "Push one sleeve up a stick and eight ribs swing out, bend like bows and pull a sheet of cloth drum tight. Open an umbrella in 3D, work its linkage, and see why the wind turns it inside out.",
+  "thumbText": "HOW AN UMBRELLA WORKS",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "umbrella",
+    "linkage",
+    "mechanism",
+    "tension structure",
+    "drag",
+    "wind",
+    "rain",
+    "folding umbrella",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A folding roof on a stick",
+      "text": "An umbrella is a shaft, eight thin ribs hinged at the top, eight stretchers that hinge on one sliding runner, and a canopy sewn from eight cloth panels. Two sprung catches in the shaft hold it open or shut."
+    },
+    {
+      "title": "One push opens eight ribs",
+      "text": "Each rib, its stretcher and the shaft make a triangle. Pushing the runner up shortens the shaft side, so the joint has to swing out. All eight triangles share the runner, so all eight ribs open together."
+    },
+    {
+      "title": "Cloth pulls, ribs push",
+      "text": "The cloth is cut a little small. Near the top it pulls tight, the ribs bend like bows, and the top spring holds the runner against them. Cloth in tension and ribs in bending and compression make a stiff, light roof. More ribs are rounder and stronger, and heavier."
+    },
+    {
+      "title": "Rain slants, so tilt the shaft",
+      "text": "A 2 mm raindrop falls at about 6.5 m/s, so a 20 km/h breeze pushes rain about 40 degrees off straight down. The dry space under the canopy leans the same way. Lean the umbrella into the wind and the dry space swings back over you. A water-repellent finish makes drops bead and roll off."
+    },
+    {
+      "title": "Why it turns inside out",
+      "text": "Drag grows with the square of wind speed, and a cup catches nearly four times as much air as a dome. When wind gets under the canopy it lifts the outer ribs. Past the cloth's hold they bow and snap through. Vents and springy fibreglass ribs help."
+    },
+    {
+      "title": "The one that fits in a bag",
+      "text": "A pocket umbrella has a telescopic shaft and ribs in three hinged sections. A short link and a long wire on every rib make two small linkages that unfold all three sections in step. It packs to under a third of the length, with nine hinges per rib instead of three."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Rib",
+      "def": "One of the long thin bars that hold the cloth out. It hinges on the top notch at the top of the shaft."
+    },
+    {
+      "term": "Stretcher",
+      "def": "The shorter bar from the runner to the middle of a rib. It pushes the rib outwards."
+    },
+    {
+      "term": "Runner",
+      "def": "The sleeve that slides on the shaft and carries every stretcher. Its height sets the angle of every rib."
+    },
+    {
+      "term": "Linkage",
+      "def": "Stiff bars joined by pins so that moving one part moves all the others in a fixed way."
+    },
+    {
+      "term": "Tension structure",
+      "def": "A structure kept in shape by parts that are pulled tight, like a tent, a kite or an umbrella canopy."
+    },
+    {
+      "term": "Drag",
+      "def": "The force of moving air on an object. It grows with the square of the wind speed and depends on shape and area."
+    },
+    {
+      "term": "Snap-through",
+      "def": "A sudden jump of a bent part from one curved shape to the opposite one. It is how an umbrella turns inside out."
+    },
+    {
+      "term": "Rain angle",
+      "def": "How far rain slants from straight down. Its tangent is the wind speed divided by the drops' fall speed."
+    },
+    {
+      "term": "Telescopic shaft",
+      "def": "A shaft made of tubes that slide inside each other, so a folding umbrella can pack short."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "umbrellaclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

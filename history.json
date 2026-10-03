@@ -1,0 +1,933 @@
+{
+  "title": "The history of the umbrella",
+  "tagline": "4,500 years from a shade held over kings to a storm-proof canopy that folds into your bag.",
+  "intro": "The umbrella began as shade, not shelter. In Egypt, Assyria, India and China it was held over rulers and sacred things as a sign of honour. Chinese makers learned to make it fold and to keep rain off with oiled paper, and much later Europeans dared to carry one in a shower. Steel ribs made it light, telescopic shafts made it pocket-sized, and today designers are still trying to beat its oldest enemy: the wind.",
+  "eras": [
+    {
+      "id": "shade",
+      "name": "Shade for kings and gods",
+      "from": -2450,
+      "to": 1800,
+      "color": "#c49bff",
+      "summary": "For thousands of years a parasol is a sign of honour. Attendants hold it over rulers, and it crowns sacred buildings and temple processions."
+    },
+    {
+      "id": "paper",
+      "name": "Bamboo, paper and oil",
+      "from": 21,
+      "to": 1800,
+      "color": "#ffb547",
+      "summary": "In China the umbrella learns to fold and to keep off rain with oiled paper. The craft spreads across East Asia and becomes an art in Japan."
+    },
+    {
+      "id": "street",
+      "name": "Out in the rain",
+      "from": 1600,
+      "to": 1850,
+      "color": "#ff7a59",
+      "summary": "Travellers bring the umbrella to Europe. A Paris maker folds it small, and a stubborn Londoner makes it normal for men to carry one."
+    },
+    {
+      "id": "steel",
+      "name": "Steel ribs",
+      "from": 1830,
+      "to": 1925,
+      "color": "#5ce1a9",
+      "summary": "Heavy whalebone and oiled silk give way to light steel ribs and cheaper cloth. The umbrella becomes something almost anyone can own."
+    },
+    {
+      "id": "pocket",
+      "name": "The umbrella that folds away",
+      "from": 1925,
+      "to": 2000,
+      "color": "#7aa2ff",
+      "summary": "Telescopic shafts and folding ribs shrink the umbrella to fit a pocket or handbag. Nylon and plastic replace silk and cotton, and family firms in Kerala make it a monsoon must-have."
+    },
+    {
+      "id": "wind",
+      "name": "Fighting the wind",
+      "from": 2000,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Designers reshape the canopy to survive storms and keep drips away, while one town in China makes umbrellas for much of the world."
+    }
+  ],
+  "events": [
+    {
+      "year": -2450,
+      "date": "c. 2450 BCE",
+      "era": "shade",
+      "art": "leaf",
+      "title": "Shade for the powerful in Egypt",
+      "who": "Ancient Egyptians",
+      "where": "Egypt",
+      "country": "Egypt",
+      "text": "The earliest known umbrellas in Egyptian art date to the Fifth Dynasty, around 2450 BCE. They were sunshades on long handles, carried by attendants for important people. A victory stele of Sargon of Akkad, from about 2310 BCE in Mesopotamia, shows one too.",
+      "why": "The umbrella started as shade and as a sign of rank, long before anyone used it for rain.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": -700,
+      "date": "c. 700–692 BCE",
+      "era": "shade",
+      "art": "block",
+      "title": "A king under a sunshade at Nineveh",
+      "who": "King Sennacherib and his attendants",
+      "where": "Nineveh, Assyria (today Mosul, Iraq)",
+      "country": "Iraq",
+      "text": "A carved stone panel from Sennacherib's palace shows the Assyrian king in a small chariot, watching a giant statue being moved. One servant fans him, and another holds a sunshade over his head. The panel is now in the British Museum.",
+      "why": "In Assyria the parasol belonged to the king, so the carving shows power as well as shade.",
+      "sources": [
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "year": -500,
+      "date": "c. 700–400 BCE",
+      "era": "shade",
+      "art": "plate",
+      "title": "A sunshade that slides open in Greece",
+      "who": "Greek craftspeople",
+      "where": "Samos and Athens, Greece",
+      "country": "Greece",
+      "text": "The earliest archaeological evidence for a collapsible umbrella was found on the island of Samos, in a layer from about 700 BCE. By the late 5th century BCE the skiadeion, a sunshade, was a fashionable item for women in Athens. The custom probably passed from Greece to Rome.",
+      "why": "The sliding parts found on Samos work much like the runner on an umbrella today.",
+      "box": "anatomy",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": -250,
+      "date": "3rd century BCE",
+      "era": "shade",
+      "art": "building",
+      "key": true,
+      "title": "The chhatra crowns the Great Stupa",
+      "who": "Emperor Ashoka's builders, and later the Shungas",
+      "where": "Sanchi, Madhya Pradesh, India",
+      "country": "India",
+      "text": "In India the chhatra, a ceremonial umbrella, is an ancient symbol of kingship and of holiness in Hinduism, Jainism and Buddhism. The Great Stupa at Sanchi, begun under Emperor Ashoka in the 3rd century BCE, is crowned with a stone chhatra that honours and shelters the Buddha's relics. The royal title Chhatrapati means lord of the umbrella.",
+      "why": "It shows the umbrella as a mark of respect: a shelter held over what people most revere.",
+      "sources": [
+        3,
+        4
+      ]
+    },
+    {
+      "year": 21,
+      "date": "21 CE",
+      "era": "paper",
+      "art": "horse",
+      "key": true,
+      "title": "A folding umbrella for an emperor's carriage",
+      "who": "Wang Mang's craftsmen",
+      "where": "China",
+      "country": "China",
+      "text": "The Book of Han, a Chinese history, mentions a collapsible umbrella made in 21 CE for the ceremonial four-wheeled carriage of the emperor Wang Mang. Bronze hinges with locking slides, which could have been used for umbrellas, have been found at Luoyang and date from the 6th century BCE.",
+      "why": "It is the often-cited first written record of an umbrella built to fold.",
+      "box": "folding",
+      "sources": [
+        0,
+        41
+      ]
+    },
+    {
+      "year": 220,
+      "date": "from c. 200 CE",
+      "era": "paper",
+      "art": "waterdrop",
+      "key": true,
+      "title": "Oiled paper keeps off the rain",
+      "who": "Chinese umbrella makers",
+      "where": "China",
+      "country": "China",
+      "text": "Chinese makers stretched paper over a bamboo frame and brushed it with tung oil so that rain ran off. Legend credits the idea to Yun, the wife of the master carpenter Lu Ban. Oil-paper umbrellas spread among ordinary people after the Eastern Han dynasty, and later travelled to Korea, Japan and Southeast Asia.",
+      "why": "The umbrella became a rain shelter for everyone, not only shade for rulers.",
+      "box": "rain",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1270,
+      "date": "c. 1270",
+      "era": "paper",
+      "art": "scroll",
+      "title": "A picture of a modern-looking umbrella",
+      "who": "A Song dynasty printer",
+      "where": "China",
+      "country": "China",
+      "text": "A Chinese divination book printed in about 1270, late in the Song dynasty, includes a picture of a collapsible umbrella. It looks just like the traditional umbrellas still made in China, with ribs, stretchers and a sliding runner.",
+      "why": "It shows that the basic folding frame was already worked out more than 700 years ago.",
+      "box": "linkage",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1550,
+      "date": "c. 1300–1600",
+      "era": "paper",
+      "art": "palette",
+      "title": "Wagasa: Japan makes the umbrella its own",
+      "who": "Japanese artisans",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "Umbrellas reached Japan from China in the Heian period (794–1185), first as canopies for nobles. Around the 14th century, makers began waterproofing the paper with oils and wax, and by the 16th century they could make wagasa that fold. In the Edo period (1603–1868) ordinary townspeople carried them, as woodblock prints show.",
+      "why": "A borrowed idea became a craft of its own, made from bamboo, washi paper and oil.",
+      "box": "rain",
+      "sources": [
+        6,
+        5
+      ]
+    },
+    {
+      "year": 1611,
+      "date": "1611",
+      "era": "street",
+      "art": "quill",
+      "title": "The word arrives in English",
+      "who": "Thomas Coryat",
+      "where": "Italy and England",
+      "country": "United Kingdom",
+      "text": "The English traveller Thomas Coryat walked through Europe and wrote a book, Coryat's Crudities, published in 1611. He described Italian riders shading themselves with 'umbrellas'. The Oxford English Dictionary records the word's first use in that year.",
+      "why": "Europe met the umbrella again as a sunshade from Italy, and English gained a new word.",
+      "sources": [
+        0,
+        8
+      ]
+    },
+    {
+      "year": 1710,
+      "date": "1 January 1710",
+      "era": "street",
+      "art": "spring2",
+      "key": true,
+      "title": "A pocket umbrella in Paris",
+      "who": "Jean Marius",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Jean Marius, a Paris merchant, won a five-year royal privilege for his 'folding pocket parasol-umbrella'. It had a hinged metal frame and weighed less than a kilogram. In 1712 the Princess Palatine wrote in a letter that it could be carried everywhere in case of rain.",
+      "why": "It was Europe's first lightweight folding umbrella, and it made the umbrella fashionable at the French court.",
+      "box": "folding",
+      "sources": [
+        9,
+        0
+      ]
+    },
+    {
+      "year": 1750,
+      "date": "c. 1750",
+      "era": "street",
+      "art": "person",
+      "key": true,
+      "title": "The man who dared to carry one",
+      "who": "Jonas Hanway",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "In London, umbrellas were thought fit only for women. Jonas Hanway, a merchant and charity founder, is credited as the first man to carry one in the streets as a habit, from about 1750. Hackney coachmen, who earned money when it rained, jeered at him. He is said to have kept it up for thirty years.",
+      "why": "By the time he died in 1786, umbrellas were becoming an ordinary sight in London.",
+      "sources": [
+        10,
+        11,
+        12,
+        13,
+        1
+      ]
+    },
+    {
+      "year": 1750,
+      "date": "c. 1750",
+      "era": "paper",
+      "art": "colour",
+      "title": "Gifu, a city of umbrella makers",
+      "who": "Craftspeople of Gifu",
+      "where": "Gifu, Japan",
+      "country": "Japan",
+      "text": "Wagasa making began in Gifu around the middle of the 18th century, and it was encouraged as a side job for samurai. The Nagara River valley supplied good washi paper, bamboo and perilla oil. In the 1950s Gifu made about 15 million umbrellas a year, and Gifu wagasa became an official traditional craft of Japan in 2020.",
+      "why": "It shows how one place with the right materials can become the home of a whole craft.",
+      "box": "canopy",
+      "sources": [
+        7,
+        6,
+        5
+      ]
+    },
+    {
+      "year": 1798,
+      "date": "c. 1798",
+      "era": "shade",
+      "art": "trophy",
+      "title": "Thrissur Pooram and the kudamattam",
+      "who": "Sakthan Thampuran and the temples of Thrissur",
+      "where": "Thrissur, Kerala, India",
+      "country": "India",
+      "text": "Sakthan Thampuran, ruler of Cochin, founded the Thrissur Pooram temple festival, in 1798 by most accounts, though some say 1796. Its best-loved moment today is the kudamattam. Two rows of 15 decorated elephants, from the Paramekkavu and Thiruvambady temples, face each other while the people riding them swap bright silk parasols in quick succession.",
+      "why": "The ceremonial umbrella is still a living art in Kerala, made new every year for the festival.",
+      "sources": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1830,
+      "date": "1830",
+      "era": "steel",
+      "art": "window",
+      "title": "An umbrella shop that is still open",
+      "who": "James Smith",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "James Smith founded an umbrella business at Foubert's Place in London in 1830. James Smith & Sons later moved to New Oxford Street, where the shop fittings from around 1865 are still in use. The building is now protected as a listed building.",
+      "why": "It marks the moment the umbrella became an everyday item with its own specialist shops.",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1848,
+      "date": "1848",
+      "era": "steel",
+      "art": "scissors",
+      "title": "Alpaca cloth instead of silk",
+      "who": "William Sangster",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Early European umbrellas were covered in oiled silk, which was heavy and costly. In 1848 the London umbrella maker William Sangster patented alpaca cloth as a cover. He wrote that more than 45,000 alpaca umbrellas were sold in 1854, because the cloth lasted longer and cost less.",
+      "why": "A cheaper, tougher canopy helped put the umbrella within reach of ordinary people.",
+      "box": "canopy",
+      "sources": [
+        1,
+        11
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1851–1852",
+      "era": "steel",
+      "art": "gear",
+      "key": true,
+      "title": "The Paragon rib",
+      "who": "Samuel Fox",
+      "where": "Stocksbridge, Yorkshire, England",
+      "country": "United Kingdom",
+      "text": "Samuel Fox, a wire maker in Stocksbridge, began selling umbrella frames in 1848. In 1851 or 1852 (sources differ) he brought out the Paragon rib: a thin strip of steel rolled into a U-shaped trough. A writer in 1855 called it half the weight of whalebone but just as strong. Fox is often credited with the steel rib, though metal ribs were on sale earlier.",
+      "why": "A U-shaped rib resists bending far better than a flat strip of the same weight, and umbrella ribs are still made this way.",
+      "box": "linkage",
+      "sources": [
+        18,
+        19,
+        1,
+        11
+      ]
+    },
+    {
+      "year": 1928,
+      "date": "1928–1932",
+      "era": "pocket",
+      "art": "telescope",
+      "key": true,
+      "title": "The Knirps",
+      "who": "Hans Haupt and Fritz Bremshey",
+      "where": "Berlin and Solingen, Germany",
+      "country": "Germany",
+      "text": "Hans Haupt had been patenting umbrellas with telescope-like shafts since 1916. In 1928 the name Knirps, meaning 'little fellow', was registered as a trademark. Haupt applied for his best-known patent, for a 'shortenable umbrella', on 26 April 1930. The Bremshey company in Solingen made the first Knirps in 1932.",
+      "why": "A shaft that slides into itself gave the world the pocket umbrella, and in German 'Knirps' became the everyday word for one.",
+      "box": "folding",
+      "sources": [
+        20,
+        21
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "19 September 1929",
+      "era": "pocket",
+      "art": "studio",
+      "key": true,
+      "title": "A sculptor's umbrella for a handbag",
+      "who": "Slawa Horowitz (later Duldig)",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "Slawa Horowitz, a young sculptor, was caught in the rain in Vienna in 1928 and decided an umbrella should fit in a handbag. She built a prototype with a telescopic stick and ribs that fold in two. Her British patent, No. 318,577, was published on 19 September 1929, and the umbrella was sold under the name Flirt. Haupt's first patents are older, so it is fairest to say the two worked separately on the same idea.",
+      "why": "Her folding ribs are an early version of the compact umbrella design used today, and she is one of the few women named in umbrella history.",
+      "box": "folding",
+      "sources": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1946,
+      "date": "1946",
+      "era": "pocket",
+      "art": "flask",
+      "title": "Nylon takes over the canopy",
+      "who": "Fox Umbrellas",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "During the Second World War the London firm Fox Umbrellas made parachutes, and so learned to work with nylon. In 1946 it showed umbrellas with nylon covers at the 'Britain Can Make It' exhibition at the Victoria and Albert Museum. The firm says it pioneered the idea.",
+      "why": "Man-made cloth is light, strong and quick to dry, and it has largely replaced silk and cotton on umbrellas.",
+      "box": "rain",
+      "sources": [
+        25,
+        0
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "1954",
+      "era": "pocket",
+      "art": "building",
+      "title": "Kuda Vavachan's umbrella mart",
+      "who": "Thayyil Abraham Varghese",
+      "where": "Alappuzha, Kerala, India",
+      "country": "India",
+      "text": "Thayyil Abraham Varghese founded St. George Umbrella Mart in Alappuzha in 1954. People called him Kuda Vavachan: kuda is the Malayalam word for umbrella. His brand led Kerala's market, and after he died in 1968 his sons kept it going together.",
+      "why": "It made a small coastal town the centre of umbrella making for a state with one of India's heaviest monsoons.",
+      "sources": [
+        29,
+        27,
+        30
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "c. 1958",
+      "era": "pocket",
+      "art": "eye",
+      "title": "The see-through umbrella",
+      "who": "The Sudo family of White Rose",
+      "where": "Tokyo, Japan",
+      "country": "Japan",
+      "text": "White Rose, a Tokyo firm that dates back to 1721, first made vinyl covers to keep cotton umbrellas dry. Its owner then fixed clear vinyl straight onto the frame, welding it with heat instead of sewing it. The transparent umbrella is usually dated to 1958 and credited to Mitsuo Sudo. An American buyer noticed it at the time of the 1964 Tokyo Olympics.",
+      "why": "A cheap, clear canopy lets you see where you are going, and it became a familiar sight on rainy streets in Japan.",
+      "box": "canopy",
+      "sources": [
+        26,
+        0
+      ]
+    },
+    {
+      "year": 1965,
+      "date": "1965",
+      "era": "pocket",
+      "art": "flash",
+      "title": "Open at the push of a button",
+      "who": "Knirps",
+      "where": "Solingen, Germany",
+      "country": "Germany",
+      "text": "According to the Knirps brand's own history, in 1965 it brought out an umbrella that opens by itself. A spring is held back by a catch. Press the button and the spring pushes the runner up the shaft.",
+      "why": "One-handed opening made the pocket umbrella quicker to use when the rain starts suddenly.",
+      "box": "folding",
+      "sources": [
+        32,
+        20
+      ]
+    },
+    {
+      "year": 1970,
+      "date": "1970",
+      "era": "pocket",
+      "art": "car",
+      "title": "Totes brings the folding umbrella to America",
+      "who": "Bradford E. Phillips and Totes",
+      "where": "Loveland, Ohio, USA",
+      "country": "United States",
+      "text": "Bradford Phillips, who had bought the rainwear firm behind Totes in 1961, added a collapsible umbrella to its range in 1970. After two failed attempts of his own, he bought the New York firm L.P. Henryson to get its working design. He is often credited with a 1969 patent for a 'working folding umbrella'. By the mid-1980s Totes was called the world's largest supplier of such umbrellas.",
+      "why": "Clever selling turned the folding umbrella into something Americans kept in a bag, a desk or a car.",
+      "box": "folding",
+      "sources": [
+        31,
+        0
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "pocket",
+      "art": "share",
+      "title": "Popy and John's",
+      "who": "T. V. Scaria, Abraham Thayyil and their families",
+      "where": "Alappuzha, Kerala, India",
+      "country": "India",
+      "text": "In 1995 the sons of Kuda Vavachan divided St. George Umbrella Mart into two brands: Popy, started by T. V. Scaria, and John's, started by his brother Abraham Thayyil. The two family firms have competed ever since with catchy jingles and new models each monsoon, from tiny folding umbrellas to ones with Bluetooth speakers.",
+      "why": "Their rivalry made the school-season umbrella a part of growing up in Kerala.",
+      "box": "folding",
+      "sources": [
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "year": 2006,
+      "date": "2006",
+      "era": "wind",
+      "art": "wind",
+      "key": true,
+      "title": "The Senz storm umbrella",
+      "who": "Gerwin Hoogendoorn, Gerard Kool and Philip Hess",
+      "where": "Delft, Netherlands",
+      "country": "Netherlands",
+      "text": "Gerwin Hoogendoorn, a design student at Delft University of Technology, broke three umbrellas in one week. He designed a lopsided canopy, short at the front and long at the back, that turns itself into the wind. The Senz went on sale in 2006, and the first 10,000 sold out in nine days. The maker claims it works in gusts of up to 100 km/h.",
+      "why": "It showed that the round shape itself was the weak point, and that an umbrella can be shaped like a wing.",
+      "box": "wind",
+      "sources": [
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "wind",
+      "art": "wrench",
+      "title": "Blunt tips from New Zealand",
+      "who": "Greig Brebner and Scott Kington",
+      "where": "New Zealand",
+      "country": "New Zealand",
+      "text": "Greig Brebner, a tall New Zealand engineer, had the idea in London in 1999 while dodging umbrella spikes at eye level. He set up Blunt with Scott Kington in 2004. Each rib ends in a rounded tip that opens inside a pocket and pulls the canopy tight. In 2009 the company said its umbrella had survived a wind tunnel at 117 km/h.",
+      "why": "A tight canopy with no loose edge is harder for the wind to catch, and safer for the people around you.",
+      "box": "canopy",
+      "sources": [
+        36,
+        37
+      ]
+    },
+    {
+      "year": 2015,
+      "date": "2015",
+      "era": "wind",
+      "art": "waterdrop",
+      "title": "The inside-out umbrella",
+      "who": "Jenan Kazim",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Jenan Kazim, an engineer, started work in 2000 on an umbrella that would not drip on the floor. His KAZbrella closes the other way round: the wet top folds inwards and the dry underside ends up outside. In 2015 it raised more than its goal on the crowdfunding site Kickstarter.",
+      "why": "It is easier to close when stepping into a car or a doorway, and the rainwater stays trapped inside.",
+      "box": "folding",
+      "sources": [
+        38
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2025",
+      "era": "wind",
+      "art": "earth",
+      "title": "One town, hundreds of millions of umbrellas",
+      "who": "The umbrella makers of Songxia",
+      "where": "Songxia, Shangyu, Zhejiang, China",
+      "country": "China",
+      "text": "Most of the world's umbrellas are now made in China. Songxia, a town in the Shangyu district of Zhejiang, has more than 1,400 umbrella factories. Local officials say it makes over a third of the world's umbrellas, and the district is reported to produce about 600 million a year.",
+      "why": "The umbrella first learned to fold in China about 2,000 years ago, and China is where most are made today.",
+      "sources": [
+        39,
+        40,
+        0
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Earliest known umbrellas in art",
+      "value": "c. 2450 BCE",
+      "who": "Fifth Dynasty Egypt"
+    },
+    {
+      "label": "Earliest evidence of a collapsible umbrella",
+      "value": "c. 700 BCE",
+      "who": "Samos, Greece"
+    },
+    {
+      "label": "Written record of a folding umbrella",
+      "value": "21 CE",
+      "who": "Wang Mang's carriage, China"
+    },
+    {
+      "label": "Lightweight folding umbrella in Europe",
+      "value": "1710",
+      "who": "Jean Marius, France"
+    },
+    {
+      "label": "Man said to carry an umbrella habitually in London",
+      "value": "c. 1750",
+      "who": "Jonas Hanway, England"
+    },
+    {
+      "label": "U-section steel 'Paragon' rib",
+      "value": "1851–1852",
+      "who": "Samuel Fox, England"
+    },
+    {
+      "label": "Patent for a telescopic umbrella shaft",
+      "value": "1916",
+      "who": "Hans Haupt, Germany"
+    },
+    {
+      "label": "Transparent vinyl umbrella",
+      "value": "c. 1958",
+      "who": "White Rose, Japan"
+    },
+    {
+      "label": "Asymmetric storm umbrella on sale",
+      "value": "2006",
+      "who": "Senz, Netherlands"
+    }
+  ],
+  "people": [
+    {
+      "name": "Wang Mang",
+      "life": "45 BCE – 23 CE",
+      "role": "Emperor of the Xin dynasty",
+      "from": "China",
+      "note": "A folding umbrella was made for his ceremonial carriage in 21 CE."
+    },
+    {
+      "name": "Thomas Coryat",
+      "life": "c. 1577 – 1617",
+      "role": "Traveller and writer",
+      "from": "England",
+      "note": "His 1611 travel book described Italian sunshades and helped bring the word 'umbrella' into English."
+    },
+    {
+      "name": "Jean Marius",
+      "life": "active c. 1710",
+      "role": "Merchant and inventor",
+      "from": "France",
+      "note": "Won a royal privilege in 1710 for a folding pocket umbrella."
+    },
+    {
+      "name": "Jonas Hanway",
+      "life": "1712 – 1786",
+      "role": "Merchant and philanthropist",
+      "from": "England",
+      "note": "Carried an umbrella through decades of jeering in London's streets."
+    },
+    {
+      "name": "Sakthan Thampuran",
+      "life": "1751 – 1805",
+      "role": "Ruler of Cochin",
+      "from": "India",
+      "note": "Founded Thrissur Pooram, the festival famous for its exchange of parasols."
+    },
+    {
+      "name": "William Sangster",
+      "life": "1808 – 1888",
+      "role": "Umbrella maker and author",
+      "from": "England",
+      "note": "Patented alpaca covers and wrote a history of the umbrella in 1855."
+    },
+    {
+      "name": "Samuel Fox",
+      "life": "1815 – 1887",
+      "role": "Wire maker and steel industrialist",
+      "from": "England",
+      "note": "Made the U-section Paragon steel rib in Stocksbridge."
+    },
+    {
+      "name": "Hans Haupt",
+      "life": "active 1916 – 1934",
+      "role": "Inventor",
+      "from": "Germany",
+      "note": "Patented telescopic umbrellas and founded Knirps; he is said to have needed a walking stick after a war injury."
+    },
+    {
+      "name": "Slawa Duldig (née Horowitz)",
+      "life": "1901 – 1975",
+      "role": "Sculptor, inventor and teacher",
+      "from": "Austria and Australia",
+      "note": "Patented the folding Flirt umbrella in 1929, then fled Vienna and settled in Melbourne."
+    },
+    {
+      "name": "Thayyil Abraham Varghese",
+      "life": "died 1968",
+      "role": "Umbrella maker",
+      "from": "India",
+      "note": "Known as Kuda Vavachan, he founded St. George Umbrella Mart in Alappuzha in 1954."
+    },
+    {
+      "name": "T. V. Scaria",
+      "life": "c. 1938 – 2021",
+      "role": "Founder of Popy",
+      "from": "India",
+      "note": "Built Popy into a household name in Kerala after the 1995 split."
+    },
+    {
+      "name": "Gerwin Hoogendoorn",
+      "life": "active from 2005",
+      "role": "Industrial designer",
+      "from": "Netherlands",
+      "note": "Designed the asymmetric Senz storm umbrella as a student in Delft."
+    }
+  ],
+  "series": [
+    {
+      "id": "weight",
+      "title": "How heavy an umbrella was",
+      "unit": "grams",
+      "log": false,
+      "after": "steel",
+      "caption": "Weights of typical umbrellas from a table by M. Farge for the 1849 French Exposition, printed by William Sangster in 1855 and converted here as English pounds and ounces: lighter ribs and cloth cut the weight to about a sixth.",
+      "points": [
+        {
+          "year": 1645,
+          "value": 1602,
+          "label": "1645: 3 lb 8½ oz, about 1.6 kg, with ribs 31½ inches long"
+        },
+        {
+          "year": 1740,
+          "value": 822,
+          "label": "1740: 1 lb 13 oz, about 820 g"
+        },
+        {
+          "year": 1780,
+          "value": 695,
+          "label": "1780: 1 lb 8½ oz, about 700 g"
+        },
+        {
+          "year": 1840,
+          "value": 376,
+          "label": "1840: 13¼ oz, about 380 g"
+        },
+        {
+          "year": 1849,
+          "value": 248,
+          "label": "1849: 8¾ oz, about 250 g, with ribs 27 inches long"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The word umbrella comes from the Latin umbra, meaning shade. The French word parapluie means 'against rain', and parasol means 'against sun'.",
+    "In 18th-century London an umbrella was sometimes called a 'Hanway', after the man who kept carrying one while coachmen jeered.",
+    "An umbrella from 1645 weighed about 1.6 kg, according to a table made for the French Exposition of 1849. By 1849 a typical one weighed about 250 g.",
+    "The Kerala brand Popy is named after a boy in the founder's family, whose nickname came from his favourite sweets.",
+    "In 1769 a Paris shop became the first to rent out umbrellas.",
+    "The first 10,000 Senz storm umbrellas sold out in nine days in 2006."
+  ],
+  "sources": [
+    {
+      "title": "Umbrella",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Umbrella"
+    },
+    {
+      "title": "Umbrella (1911 Encyclopædia Britannica)",
+      "publisher": "Wikisource",
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Umbrella"
+    },
+    {
+      "title": "King Sennacherib (relief from the South-West Palace at Nineveh, British Museum)",
+      "publisher": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/image/3550/king-sennacherib/"
+    },
+    {
+      "title": "Chatra (umbrella)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chatra_(umbrella)"
+    },
+    {
+      "title": "Sanchi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sanchi"
+    },
+    {
+      "title": "Oil-paper umbrella",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Oil-paper_umbrella"
+    },
+    {
+      "title": "What are Wagasa? 7 Things to Know About Japanese Umbrellas",
+      "publisher": "Japan Objects",
+      "url": "https://japanobjects.com/features/wagasa"
+    },
+    {
+      "title": "Gifu Wagasa (paper umbrellas)",
+      "publisher": "Japan Traditional Crafts Aoyama Square",
+      "url": "https://kougeihin.jp/en/craft/20220318"
+    },
+    {
+      "title": "Thomas Coryat",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Coryat"
+    },
+    {
+      "title": "'Marius-system' umbrella",
+      "publisher": "Palais Galliera, Musée de la Mode de la Ville de Paris",
+      "url": "https://www.palaisgalliera.paris.fr/en/marius-system-umbrella"
+    },
+    {
+      "title": "Jonas Hanway",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jonas_Hanway"
+    },
+    {
+      "title": "Umbrellas and Their History (William Sangster, 1855)",
+      "publisher": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/ebooks/6674"
+    },
+    {
+      "title": "Famous Londoners: Jonas Hanway",
+      "publisher": "Exploring London",
+      "url": "https://exploring-london.com/tag/umbrella/"
+    },
+    {
+      "title": "The Public Shaming of England's First Umbrella User",
+      "publisher": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/the-public-shaming-of-englands-first-umbrella-user"
+    },
+    {
+      "title": "Thrissur Pooram",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thrissur_Pooram"
+    },
+    {
+      "title": "Kerala's iconic 200-year-old annual Thrissur Pooram held in full grandeur",
+      "publisher": "South First (PTI)",
+      "url": "https://thesouthfirst.com/kerala/keralas-iconic-200-year-old-annual-thrissur-pooram-held-in-full-grandeur/"
+    },
+    {
+      "title": "Sakthan Thampuran",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sakthan_Thampuran"
+    },
+    {
+      "title": "James Smith & Sons",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Smith_%26_Sons"
+    },
+    {
+      "title": "Samuel Fox (industrialist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Samuel_Fox_(industrialist)"
+    },
+    {
+      "title": "Samuel Fox",
+      "publisher": "Grace's Guide to British Industrial History",
+      "url": "https://www.gracesguide.co.uk/Samuel_Fox"
+    },
+    {
+      "title": "Inventions that made history: the pocket folding umbrella (Knirps)",
+      "publisher": "German Patent and Trade Mark Office (DPMA)",
+      "url": "https://dpma.de/english/our_office/publications/milestones/inventionsthatmadehistory/knirps/index.html"
+    },
+    {
+      "title": "Knirps (Unternehmen)",
+      "publisher": "Wikipedia (German)",
+      "url": "https://de.wikipedia.org/wiki/Knirps_(Unternehmen)"
+    },
+    {
+      "title": "Slawa Duldig",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slawa_Duldig"
+    },
+    {
+      "title": "Slawa Horowitz",
+      "publisher": "Duldig Studio museum, Melbourne",
+      "url": "https://duldig.org.au/?p=114"
+    },
+    {
+      "title": "GB Patent 318,577: Foldable umbrella (S. Horowitz)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/GB318577A/en"
+    },
+    {
+      "title": "Fox Umbrellas Ltd: our history",
+      "publisher": "Fox Umbrellas",
+      "url": "https://foxumbrellas.com/pages/fox-umbrellas-ltd"
+    },
+    {
+      "title": "Clear Protection: Redefining Japan's Plastic Umbrella",
+      "publisher": "Tokyo Updates, Tokyo Metropolitan Government",
+      "url": "https://www.tokyoupdates.metro.tokyo.lg.jp/en/post-1743/"
+    },
+    {
+      "title": "TV Scaria, founder of Kerala umbrella brand Popy, dies at 82",
+      "publisher": "The News Minute",
+      "url": "https://thenewsminute.com/kerala/tv-scaria-founder-kerala-umbrella-brand-popy-dies-82-147472"
+    },
+    {
+      "title": "Tracing the rise of Popy and John's, the umbrella kings of Kerala",
+      "publisher": "The News Minute",
+      "url": "https://www.thenewsminute.com/kerala/watch-tracing-rise-popy-and-john-s-umbrella-kings-kerala-104343"
+    },
+    {
+      "title": "Popy: the story of a Kerala umbrella icon",
+      "publisher": "The Better India",
+      "url": "https://thebetterindia.com/237988/kerala-culture-icon-popy-india-best-umbrella-buy-history-johns-monsoon-season-alappuzha-popy-nano-make-in-india-ser106"
+    },
+    {
+      "title": "Summer rains perk up umbrella business",
+      "publisher": "Deccan Chronicle",
+      "url": "https://deccanchronicle.com/amp/150522/nation-current-affairs/article/summer-rains-perk-umbrella-business"
+    },
+    {
+      "title": "Totes Isotoner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Totes_Isotoner"
+    },
+    {
+      "title": "About Knirps",
+      "publisher": "Lazada Brand Wiki",
+      "url": "https://brandwiki.lazada.com.ph/knirps/"
+    },
+    {
+      "title": "Original Storm umbrella by Senz°",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://collections.vam.ac.uk/item/O1305418/"
+    },
+    {
+      "title": "About senz°",
+      "publisher": "Senz",
+      "url": "https://www.senz.com/about-us/"
+    },
+    {
+      "title": "Article on senz° and its founders",
+      "publisher": "Delta, TU Delft",
+      "url": "https://delta.tudelft.nl/?p=91044"
+    },
+    {
+      "title": "Blunt umbrella (2009 report)",
+      "publisher": "New Atlas",
+      "url": "https://newatlas.com/blunt-umbrella/13532"
+    },
+    {
+      "title": "Innovation captures umbrella market",
+      "publisher": "Local Matters, New Zealand",
+      "url": "https://www.localmatters.co.nz/business/innovation-captures-umbrella-market/"
+    },
+    {
+      "title": "Making a Drip-Free, Car-Friendly Umbrella",
+      "publisher": "Core77",
+      "url": "https://www.core77.com/posts/36546/Making-a-Drip-Free-Car-Friendly-Umbrella"
+    },
+    {
+      "title": "Songxia umbrella industry report (July 2025)",
+      "publisher": "Zhejiang provincial government (ezhejiang.gov.cn)",
+      "url": "https://www.ezhejiang.gov.cn/2025-07/04/c_1108959.htm"
+    },
+    {
+      "title": "Shangyu, Shaoxing",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shangyu,_Shaoxing"
+    },
+    {
+      "title": "Wang Mang",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wang_Mang"
+    }
+  ]
+}

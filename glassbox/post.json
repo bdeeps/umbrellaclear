@@ -1,0 +1,126 @@
+{
+  "slug": "umbrellaclear",
+  "box": 142,
+  "question": "How does an umbrella work?",
+  "url": "https://glassbox.how/e/umbrellaclear/",
+  "app": "https://glassbox.how/umbrellaclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "4,500 years from a shade held over kings to a storm-proof canopy that folds into your bag.\n\n250 BCE: The chhatra crowns the Great Stupa\n21: A folding umbrella for an emperor's carriage\n220: Oiled paper keeps off the rain\n1710: A pocket umbrella in Paris\n1750: The man who dared to carry one\n1852: The Paragon rib\n\nThe full story, with 28 moments, sources and charts: glassbox.how/e/umbrellaclear/history (link in bio)\n\nThen play with how it works: glassbox.how/umbrellaclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #umbrella #linkage #mechanism #tensionstructure #drag #wind #history",
+      "youtube": {
+        "title": "The history of the umbrella in 45 seconds #shorts",
+        "description": "4,500 years from a shade held over kings to a storm-proof canopy that folds into your bag.\n\n250 BCE · The chhatra crowns the Great Stupa (Emperor Ashoka's builders, and later the Shungas)\n21 · A folding umbrella for an emperor's carriage (Wang Mang's craftsmen)\n220 · Oiled paper keeps off the rain (Chinese umbrella makers)\n1710 · A pocket umbrella in Paris (Jean Marius)\n1750 · The man who dared to carry one (Jonas Hanway)\n1852 · The Paragon rib (Samuel Fox)\n\n▶ Full history: https://glassbox.how/e/umbrellaclear/history/\n▶ Play with it: https://glassbox.how/e/umbrellaclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does an umbrella work?\n\nPush one sleeve up a stick and eight ribs swing out, bend like bows and pull a sheet of cloth drum tight. Open an umbrella in 3D, work its linkage, and see why the wind turns it inside out.\n\n→ An umbrella is a folding roof: eight ribs, eight stretchers and one sliding runner under a sheet of cloth.\n→ Each rib, its stretcher and the shaft make a triangle. Push the runner up and the triangle has to open.\n→ Near the top the cloth pulls tight. The ribs bend like bows and the top spring holds the runner against them.\n→ The cloth is cut a little small, so the ribs bend like bows. Cloth pulls, ribs push, and the roof goes stiff.\n→ A 2 mm raindrop falls at about 6.5 metres a second. A 20 km/h breeze pushes it 40 degrees off straight down.\n\nPlay with it yourself. It's free and open source: glassbox.how/umbrellaclear (link in bio)\n\nBox No. 142 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #umbrella #linkage #mechanism #tensionstructure #drag #wind #rain #foldingumbrella #threejs",
+    "carousel": "Swipe through: How does an umbrella work?\n\nPush one sleeve up a stick and eight ribs swing out, bend like bows and pull a sheet of cloth drum tight. Open an umbrella in 3D, work its linkage, and see why the wind turns it inside out.\n\nSave this for later, then play with the interactive version at glassbox.how/umbrellaclear (link in bio).\n\nBox No. 142 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #umbrella #linkage #mechanism #tensionstructure #drag #wind",
+    "youtube": {
+      "title": "How does an umbrella work? #shorts",
+      "description": "Push one sleeve up a stick and eight ribs swing out, bend like bows and pull a sheet of cloth drum tight. Open an umbrella in 3D, work its linkage, and see why the wind turns it inside out.\n\n▶ Play with it: https://glassbox.how/e/umbrellaclear/\n⌘ Source code (MIT): https://github.com/bdeeps/umbrellaclear\n\nBox No. 142 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does an umbrella work? (interactive explainer)",
+      "description": "Push one sleeve up a stick and eight ribs swing out, bend like bows and pull a sheet of cloth drum tight. Open an umbrella in 3D, work its linkage, and see why the wind turns it inside out.\n\n▶ Play with the interactive version: https://glassbox.how/e/umbrellaclear/\n⌘ Source code (MIT): https://github.com/bdeeps/umbrellaclear\n\nIn this video:\n• A folding roof on a stick. An umbrella is a shaft, eight thin ribs hinged at the top, eight stretchers that hinge on one sliding runner, and a canopy sewn from eight cloth panels.\n• One push opens eight ribs. Each rib, its stretcher and the shaft make a triangle.\n• Cloth pulls, ribs push. The cloth is cut a little small.\n• Rain slants, so tilt the shaft. A 2 mm raindrop falls at about 6.5 m/s, so a 20 km/h breeze pushes rain about 40 degrees off straight down.\n• Why it turns inside out. Drag grows with the square of wind speed, and a cup catches nearly four times as much air as a dome.\n• The one that fits in a bag. A pocket umbrella has a telescopic shaft and ribs in three hinged sections.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does an umbrella work?\n\nPush one sleeve up a stick and eight ribs swing out, bend like bows and pull a sheet of cloth drum tight.\n\nPlay with it: https://glassbox.how/e/umbrellaclear/",
+    "linkedin": "How does an umbrella work?\n\nPush one sleeve up a stick and eight ribs swing out, bend like bows and pull a sheet of cloth drum tight. Open an umbrella in 3D, work its linkage, and see why the wind turns it inside out.\n\n1. A folding roof on a stick\n2. One push opens eight ribs\n3. Cloth pulls, ribs push\n4. Rain slants, so tilt the shaft\n5. Why it turns inside out\n6. The one that fits in a bag\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 142 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/umbrellaclear/\nCode: https://github.com/bdeeps/umbrellaclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T09:44:35.105Z"
+}
